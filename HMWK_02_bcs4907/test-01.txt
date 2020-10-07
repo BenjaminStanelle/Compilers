@@ -1,0 +1,14 @@
+This is a "text file": line 1.
+This is "line 2" of that text file.
+You guessed it;  line 3, not line 2.54.
+An exponential 1234E3 123e+21 321E-2.
+A double .123 and 123. and 123.321 and 
+more doubles .123E2 and 123.E+3
+maybe i should seperate the exponents.
+this is an exponent with negative sign 23.4e-32
+exponent positive sign .4E32
+this is an exponent with negative sign .424e-32.
+1.E+23.
+453.E3
+423.E\32
+42.E/46
